@@ -10,9 +10,9 @@
     - There are at least seven visualizations for the NYC Citibike analysis (7 pt)
     - There is a description of the results for each visualization (7 pt)
     
-    ![image](https://user-images.githubusercontent.com/114360511/217727161-c4d97685-337e-440e-be89-a4b53e03fdcf.png)
+![image](https://user-images.githubusercontent.com/114360511/217727161-c4d97685-337e-440e-be89-a4b53e03fdcf.png)
 
-    https://github.com/djaiello/bikesharing/blob/main/Visualization_Images/2_AugPeakHours.PNG?raw=true
+https://github.com/djaiello/bikesharing/blob/main/Visualization_Images/2_AugPeakHours.PNG?raw=true
 
 
 ## Summary: 
