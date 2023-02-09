@@ -14,7 +14,7 @@ NYC Citi Bike Analysis Story
  
 ### 1. "Total Number of Trips" Visualization
 ![image](https://user-images.githubusercontent.com/114360511/217727161-c4d97685-337e-440e-be89-a4b53e03fdcf.png)
-    ##### Description:  
+##### Description:  
 
 ### 2. "August Peak Hours" Visualization
 ![image](https://user-images.githubusercontent.com/114360511/217727973-74317c16-7cda-4797-a573-117a7759d3eb.png)
