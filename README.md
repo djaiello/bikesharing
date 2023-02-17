@@ -46,7 +46,7 @@ NYC Citi Bike Analysis Story
 
 
 ### Link to Tableau Dashboard:
-[link to dashboard(https://public.tableau.com/views/Module15ChallengeNYCCitiBike/NYCCitiBikeAnalysisStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/views/Module15ChallengeNYCCitiBike/NYCCitiBikeAnalysisStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Summary: 
