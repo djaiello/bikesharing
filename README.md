@@ -1,8 +1,11 @@
 # Module 15 Challenge: NY Citibike with Tableau
 
 ## Overview of the analysis: 
-    Explain the purpose of this analysis.
-    - The purpose of the analysis is well defined. (5 pt)
+The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, we are adding a bike trip analysis to our presentation to investors.  Using a NY Citibike dataset we will create a set of visualizations to:
+- Show the length of time that bikes are checked out for all riders and genders
+- Show the number of bike trips for all riders and genders for each hour of each day of the week
+- Show the number of bike trips for each type of user and gender for each day of the week.
+Finally, we will add these new visualizations to several prior for your final presentation and analysis to pitch to investors.
     
     
 ## Results: 
