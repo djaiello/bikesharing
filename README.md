@@ -5,6 +5,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 - Show the length of time that bikes are checked out for all riders and genders
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
+
 Finally, we will add these new visualizations to several prior for your final presentation and analysis to pitch to investors.
     
     
