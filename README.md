@@ -42,7 +42,8 @@ NYC Citi Bike Analysis Story
 
 ### 8. "User Trips by Gender by Weekday" Visualization
 ![image](https://user-images.githubusercontent.com/114360511/217728245-ad25c261-f246-4502-a9e7-40aba8809955.png)
-##### Description:  
+##### Description:
+
 
 
 ### Link to Tableau Dashboard:
